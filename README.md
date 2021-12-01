@@ -1,6 +1,11 @@
 # network_practice
 network
 
+# 211201
+# VPC
+https://www.44bits.io/ko/post/understanding_aws_vpc
+
+
 # 211130
 # 해당 github은 실무에서 직접적으로 사용되는 network에 대한 지식을 정리하는 repo 입니다.
 
